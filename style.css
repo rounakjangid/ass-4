@@ -1,0 +1,49 @@
+div{
+    text-align: center;
+}
+.container nav a {
+    display: inline-block;
+    margin-right: 40px ;
+    color:black;
+    font-size: larger;
+    padding: 2%;
+    margin-right: 5%;
+
+}
+.cont1 {
+    text-align: justify;
+}
+
+.cont1 img {
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+}
+
+.cont1:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.cont2 {
+    text-align: justify;
+}
+
+.cont2 img {
+    display: inline-block;
+    width: 15%;
+    height: 10%;
+}
+
+.cont2:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+button{
+    text-align: center;
+    color: red;
+    background-color:white ;
+}
